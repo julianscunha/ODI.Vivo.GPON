@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pcap
+*.pcapng
+*.log
+*.tar
+*.bin
