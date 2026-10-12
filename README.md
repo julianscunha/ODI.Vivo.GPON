@@ -5,6 +5,7 @@
 ![firmware](https://img.shields.io/badge/firmware-V1.0--220817-orange)
 ![isp](https://img.shields.io/badge/ISP-Vivo%20Fibra%20(SP)-purple)
 ![docs](https://img.shields.io/badge/docs-Obsidian-7C3AED)
+![license](https://img.shields.io/badge/license-MIT-green)
 
 **Como substituir o HGU MitraStar da Vivo Fibra por uma ONU/SFP ODI DFP-34X-2C2 (RTL9601D)** e obter o provisionamento completo (bridge, VLAN, PPPoE e Internet), explicando a causa raiz que fazia a ODI ficar em **O5 sem serviço**.
 
@@ -88,3 +89,7 @@ Para ler com os `[[wikilinks]]`, abra a pasta `docs/` como vault no **Obsidian**
 
 - Firmware e scripts: projeto **RTL960x** / README da DFP-34X-2C2 (`M110_sfp_ODI_220817.tar`).
 - Investigação, captura OMCI e validação: este repositório.
+
+## Licença
+
+[MIT](LICENSE) — documentação e scripts. Use por sua conta e risco.
